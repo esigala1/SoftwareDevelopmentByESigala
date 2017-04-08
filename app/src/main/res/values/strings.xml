@@ -3,7 +3,7 @@
     <string name="title">Software Development</string>
     <string name="about">A software developer\'s world by Effie Sigala</string>
     <string name="hours">24/7</string>
+    <string name="facebook"><a href="https://www.facebook.com/sigala.effie">Software Development by Effie Sigala</a></string>
     <string name="website">http://esigala1.bplaced.net/software</string>
-    <string name="facebook">https://www.facebook.com/sigala.effie</string>
     <string name="location"><a href="https://www.google.gr/maps/place/Pireas/@37.9357611,23.6438529,15.5z">Piraeus, Attica, Greece</a></string>
 </resources>
